@@ -1,0 +1,11 @@
+SCENARIO: BASELINE | BATCH SIZE: 3
+Generated: 2025-12-12 16:41:31.432280
+
+Packets                       : min=17.00 median=19.00 max=21.00
+Dup Rate %                    : min=0.00 median=0.00 max=0.00
+Gaps                          : min=0.00 median=0.00 max=0.00
+Bytes Per Report              : min=17.71 median=18.32 max=19.06
+Cpu Ms Per Report             : min=22.52 median=29.29 max=31.30
+Avg Readings Per Packet       : min=1.43 median=1.58 max=1.76
+
+==================================================

@@ -1,0 +1,27 @@
+[INFO] Sensor started at 2025-12-12 16:48:03.354896
+[INFO] Duration: 30s | Interval: 1.0s
+[INFO] Device ID: 105 | Seed: 47
+[INFO] Batching: up to 3 readings per packet
+[INFO] Max readings per packet: 47
+--------------------------------------------------
+[DATA] seq=001 | readings=2 | bytes=20
+[DATA] seq=002 | readings=1 | bytes=16
+[DATA] seq=003 | readings=1 | bytes=16
+[DATA] seq=010 | readings=2 | bytes=20
+[FINAL] seq=19 | readings=1
+
+==================================================
+CLIENT STATISTICS
+==================================================
+Requested duration: 30s
+Actual runtime: 30.01s
+Packets sent: 19
+  - Data packets: 19
+  - Heartbeats: 0
+Readings sent: 30
+Total bytes sent: 348
+Average bytes per packet: 18.32
+Average readings per data packet: 1.58
+Effective send rate: 0.63 packets/second
+Final sequence number: 19
+[INFO] Sensor finished.

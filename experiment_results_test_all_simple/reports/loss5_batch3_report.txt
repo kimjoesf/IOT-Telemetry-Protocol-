@@ -1,0 +1,11 @@
+SCENARIO: LOSS5 | BATCH SIZE: 3
+Generated: 2025-12-12 16:48:44.711907
+
+Packets                       : min=14.00 median=18.00 max=19.00
+Dup Rate %                    : min=0.00 median=0.00 max=0.00
+Gaps                          : min=0.00 median=0.00 max=3.00
+Bytes Per Report              : min=18.32 median=18.57 max=18.67
+Cpu Ms Per Report             : min=22.77 median=28.25 max=31.71
+Avg Readings Per Packet       : min=1.58 median=1.64 max=1.67
+
+==================================================
